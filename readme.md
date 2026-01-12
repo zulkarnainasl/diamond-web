@@ -5,7 +5,7 @@ Repositori ini berisi proyek Django. Ikuti langkah-langkah berikut untuk mengklo
 ## Cara Clone Repository
 
 ```bash
-git clone https://github.com/username/diamond.git
+git clone https://github.com/kloworizer/diamond-web.git
 cd diamond
 ```
 
